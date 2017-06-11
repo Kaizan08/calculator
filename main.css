@@ -39,8 +39,6 @@ body{
     text-align: center;
     flex-wrap: wrap;
     max-height: 80px;
-    max-width: 210px;
-    min-width: 210px;
     min-height: 80px;
 }
 .output{
